@@ -1,0 +1,48 @@
+body {
+background-color: lightgrey;
+}
+
+h1 {
+color: grey;
+text-align: center;
+font-family: calibri;
+font-size: 40px;
+}
+
+p {
+font-family: calibri;
+font-size: 25px;
+}
+
+/* unvisited link */
+a:link {
+  color: #006600;
+  font-family: calibri;
+  font-size: 18px;
+}
+
+/* visited link */
+a:visited {
+  color: #003300;
+  font-family: calibri;
+  font-size: 18px;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  font-family: calibri;
+}
+
+/* selected link */
+a:active {
+  color: #33cc33;
+  font-family: calibri;
+}
+
+div {
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 250px;
+}
